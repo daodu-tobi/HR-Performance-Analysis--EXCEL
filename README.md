@@ -107,11 +107,13 @@ Snapshot of visuals used for displaying the above anlysis
  - Calculation of total employees with low performance by Department using bar chart for visual display
 
  Snapshot of visuals used for displaying the above anlysis 
+ 
  ![Excel 6](https://github.com/user-attachments/assets/22678968-3c66-4ff9-8f75-5355f5d20b54)
 
   - Calculation of total employee by Recruitment Channel using Tree Map for visual display
 
 Snapshot of visuals used for displaying the above anlysis 
+
 ![Excel 7](https://github.com/user-attachments/assets/101b1bc4-3e9c-4288-9976-465e3944b9b3)
 
  - Calculation of total employees with high performance by Employees Age Group and Gender, by Distance to work, by Education level and training level using different visual for display
