@@ -1,4 +1,3 @@
-
 # Employee’s Performance for HR Analytics
 
 
@@ -90,3 +89,37 @@ Snapshot of dataset in power query
 Snapshot of Pivot-Tables used for analysis 
 ![Excel 1](https://github.com/user-attachments/assets/664cec41-8156-4ecc-bd8e-5c56baec54ff)
 
+- Analysis
+
+  - Calculation of total employee in the company using card visual for the dislay
+
+  - calculation of total male and female employees with their respective percentage
+
+Snapshot of visuals used for displaying the above anlysis 
+![Excel 4](https://github.com/user-attachments/assets/45939026-1d8d-4489-83d3-2fec75c6f3f2)
+
+ - Calculation of total employees with high performance by Department using bar chart for visual display
+
+ Snapshot of visuals used for displaying the above anlysis 
+ 
+ ![Excel 5](https://github.com/user-attachments/assets/910eba53-20a1-4cb1-bb56-f55dd79b12db)
+
+ - Calculation of total employees with low performance by Department using bar chart for visual display
+
+ Snapshot of visuals used for displaying the above anlysis 
+ ![Excel 6](https://github.com/user-attachments/assets/22678968-3c66-4ff9-8f75-5355f5d20b54)
+
+  - Calculation of total employee by Recruitment Channel using Tree Map for visual display
+
+Snapshot of visuals used for displaying the above anlysis 
+![Excel 7](https://github.com/user-attachments/assets/101b1bc4-3e9c-4288-9976-465e3944b9b3)
+
+ - Calculation of total employees with high performance by Employees Age Group and Gender, by Distance to work, by Education level and training level using different visual for display
+
+ Snapshot of visuals used for displaying the above anlysis 
+ ![Excel 8](https://github.com/user-attachments/assets/c6d5b398-be98-49ad-8068-54383e4fbf7a)
+
+ - Calculation of total employees with low performance by Employees Age Group and Gender, by Distance to work, by Education level and training level using different visual for display
+
+ Snapshot of visuals used for displaying the above anlysis 
+ ![Excel 9](https://github.com/user-attachments/assets/c03465d5-e269-4cc3-96ab-194736762585)
