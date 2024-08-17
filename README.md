@@ -1,4 +1,6 @@
+
 # Employee’s Performance for HR Analytics
+
 
 ## Description
 Employee performance for HR analytics can provide valuable insights to organizations in terms of employee engagement, productivity, and overall organizational effectiveness. HR analytics involves using data to make informed decisions about human resources and employee-related matters. 
@@ -64,6 +66,7 @@ Snapshot of dataset in power query
 
 - KPI grade more than 80 shows high performance, while KPI grade lower than 80 show low performance
 
+
    - The average training score was categorized into 'Training Grade' 
   
     - Training Score less than or equal to 49 was categorized as 'Poor'
@@ -72,9 +75,9 @@ Snapshot of dataset in power query
 
     - Training Score less than or equal to 69 was categorized as 'Good'
 
-    - Training Score less than or equal to 79 was categorized as 'Very-Good'
+     - Training Score less than or equal to 79 was categorized as 'Very-Good'
 
-    - Training Score above 79 was categorized as 'Excellent'
+     - Training Score above 79 was categorized as 'Excellent'
 
     
 - Creation of Pivot-Tables to analysis the transformed data
@@ -102,7 +105,7 @@ Snapshot of visuals used for displaying the above anlysis
  - Calculation of total employees with low performance by Department using bar chart for visual display
 
  Snapshot of visuals used for displaying the above anlysis 
- 
+
  ![Excel 6](https://github.com/user-attachments/assets/22678968-3c66-4ff9-8f75-5355f5d20b54)
 
   - Calculation of total employee by Recruitment Channel using Tree Map for visual display
@@ -114,7 +117,7 @@ Snapshot of visuals used for displaying the above anlysis
  - Calculation of total employees with high performance by Employees Age Group and Gender, by Distance to work, by Education level and training level using different visual for display
 
  Snapshot of visuals used for displaying the above anlysis 
- 
+
  ![Excel 8](https://github.com/user-attachments/assets/c6d5b398-be98-49ad-8068-54383e4fbf7a)
 
  - Calculation of total employees with low performance by Employees Age Group and Gender, by Distance to work, by Education level and training level using different visual for display
@@ -123,17 +126,33 @@ Snapshot of visuals used for displaying the above anlysis
  
  ![Excel 9](https://github.com/user-attachments/assets/c03465d5-e269-4cc3-96ab-194736762585)
 
-- Insight 
-  - 6,250 employees had high performance with respect to KPIs grade value more than 80
 
-  - The number of high performing employees was highest bewteen the ages of 31-40, with 2,048 males and 981 females
+- Insight 
+- 6,250 employees had high performance with respect to KPIs grade value more than 80
+
+  - The number of high performing employees was highest bewteen the ages of 31-40,with 2,048 males and 981 females
 
   - Employees between the ages of 21-30 had 1474 males and 632 females with high performance 
 
   - 2,879 employees with high performance lived at near distance to work, 2,146 lived far from work while 1225 lived very far from work
 
-  - Among the 6,250 with high performance, 4,123 employee held barchelors degree, 133 were below secondary school and 1,783 had Masters degree and above
+  - Among the 6,250 with high performance, 4,123 employees held barchelors degree, 133 were below secondary school and 1,783 had Masters degree and above
 
   - Among the 6,250 employees with high performance, 6,211 had Low training level, 36 had Minimal training while 3 were Highly trained
 
-  - Among the 6,250 employees with high performance, 3,450 were recruited from other channels, 2,631 from sourcing while 169 were referred
+  - Among the 6,250 employees with high performance, 3,450 were recruited from other channels, 2631 from sourcing while 169 were referred
+
+- 11,165 employees had low performance with respect to KPIs grade value more than 80
+ 
+  - The numbers of low performing employees was highest bewteen the ages of 31-40,with 3, 721 males and 1,473 females
+
+  - A total of 11,165 employees had low performnce, 8,048 males and 3,117 females.
+
+  - 4,980 employees with low performance lived at near distance to work, 3,773 lived far from work while 2412 lived very far from work
+
+  - Among the 11,165 with low performance, 7,394 employees held barchelors degree, 153 were below secondary school and 3,058 had Masters degree and above
+
+  - Among the 11,165 with low performance, 11,015 had Low training level, 143 had Minimal training while 7 were Highly trained
+
+  - Among the 11,165 with low performance, 6,299 were recruited from other channels, 4,718 from sourcing while 148 were referred
+
