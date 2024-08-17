@@ -126,7 +126,7 @@ Snapshot of visuals used for displaying the above anlysis
 - Insight 
   - 6,250 employees had high performance with respect to KPIs grade value more than 80
 
-  - The number of high performing employees was highest bewteen the ages of 31-40,with 2,048 males and 981 females
+  - The number of high performing employees was highest bewteen the ages of 31-40, with 2,048 males and 981 females
 
   - Employees between the ages of 21-30 had 1474 males and 632 females with high performance 
 
@@ -134,6 +134,6 @@ Snapshot of visuals used for displaying the above anlysis
 
   - Among the 6,250 with high performance, 4,123 employee held barchelors degree, 133 were below secondary school and 1,783 had Masters degree and above
 
-  - Among the 6,250 employees with high performance, 6,211 had Low training level, 36 had Minimal training while 3 Highly trained
+  - Among the 6,250 employees with high performance, 6,211 had Low training level, 36 had Minimal training while 3 were Highly trained
 
-  - Among the 6,250 employees with high performance, 3,450 were recruited from other channels, 2631 from sourcing while 169 were referred
+  - Among the 6,250 employees with high performance, 3,450 were recruited from other channels, 2,631 from sourcing while 169 were referred
