@@ -46,7 +46,7 @@ Snapshot of dataset in power query
 
   - The Education column contained null values which were filled with the highest occuring field(Mode) which is 'Bachelors Degree'
 
-  - The Region column which indicates the distance to work was categorized into 'Near', 'Far', 'Very-Far' in a new column to aid proper vizualization.
+  - The Region column which indicates the distance to work was categorized into 'Near', 'Far', 'Very-Far' in a new column to aid proper visualization.
 
       - Region less than or equals to 12 is categorized as 'Near'
 
@@ -88,7 +88,7 @@ Snapshot of Pivot-Tables used for analysis
 
 - Analysis
 
-  - Calculation of total employee in the company using card visual for the dislay
+  - Calculation of total employee in the company using card visual for the display
 
   - calculation of total male and female employees with their respective percentage
 
