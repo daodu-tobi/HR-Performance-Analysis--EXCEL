@@ -1,3 +1,4 @@
+
 # Employee’s Performance for HR Analytics
 
 
@@ -26,12 +27,6 @@ Employee performance for HR analytics can provide valuable insights to organizat
 
   - Length of Service : Duration of Employment with the Company
   
-### Problem statement
- 
-
-
-
-
 #### Objectives 
 - Data Cleaning and Preparation: Clean and preprocess the data to ensure it is accurate and consistent. Handle missing values and outliers appropriately.
 
@@ -79,9 +74,9 @@ Snapshot of dataset in power query
 
     - Training Score less than or equal to 69 was categorized as 'Good'
 
-     - Training Score less than or equal to 79 was categorized as 'Very-Good'
+    - Training Score less than or equal to 79 was categorized as 'Very-Good'
 
-     - Training Score above 79 was categorized as 'Excellent'
+    - Training Score above 79 was categorized as 'Excellent'
 
     
 - Creation of Pivot-Tables to analysis the transformed data
@@ -107,13 +102,11 @@ Snapshot of visuals used for displaying the above anlysis
  - Calculation of total employees with low performance by Department using bar chart for visual display
 
  Snapshot of visuals used for displaying the above anlysis 
- 
  ![Excel 6](https://github.com/user-attachments/assets/22678968-3c66-4ff9-8f75-5355f5d20b54)
 
   - Calculation of total employee by Recruitment Channel using Tree Map for visual display
 
 Snapshot of visuals used for displaying the above anlysis 
-
 ![Excel 7](https://github.com/user-attachments/assets/101b1bc4-3e9c-4288-9976-465e3944b9b3)
 
  - Calculation of total employees with high performance by Employees Age Group and Gender, by Distance to work, by Education level and training level using different visual for display
@@ -125,3 +118,19 @@ Snapshot of visuals used for displaying the above anlysis
 
  Snapshot of visuals used for displaying the above anlysis 
  ![Excel 9](https://github.com/user-attachments/assets/c03465d5-e269-4cc3-96ab-194736762585)
+
+
+- Insight 
+  - 6,250 employees had high performance with respect to KPIs grade value more than 80
+
+  - The number of high performing employees was highest bewteen the ages of 31-40,with 2,048 males and 981 females
+
+  - Employees between the ages of 21-30 had 1474 males and 632 females with high performance 
+
+  - 2,879 employees with high performance lived at near distance to work, 2,146 lived far from work while 1225 lived very far from work
+
+  - Among the 6,250 with high performance, 4,123 employee held barchelors degree, 133 were below secondary school and 1,783 had Masters degree and above
+
+  - Among the 6,250 employees with high performance, 6,211 had Low training level, 36 had Minimal training while 3 Highly trained
+
+  - Among the 6,250 employees with high performance, 3,450 were recruited from other channels, 2631 from sourcing while 169 were referred
