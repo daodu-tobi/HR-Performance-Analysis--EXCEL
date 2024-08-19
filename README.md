@@ -1,6 +1,4 @@
-
 # Employee’s Performance for HR Analytics
-
 
 ## Description
 Employee performance for HR analytics can provide valuable insights to organizations in terms of employee engagement, productivity, and overall organizational effectiveness. HR analytics involves using data to make informed decisions about human resources and employee-related matters. 
@@ -46,7 +44,7 @@ Snapshot of dataset in power query
 
   - The Education column contained null values which were filled with the highest occuring field(Mode) which is 'Bachelors Degree'
 
-  - The Region column which indicates the distance to work was categorized into 'Near', 'Far', 'Very-Far' in a new column to aid proper visualization.
+  - The Region column which indicates the distance to work was categorized into 'Near', 'Far', 'Very-Far' in a new column to aid proper vizualization.
 
       - Region less than or equals to 12 is categorized as 'Near'
 
@@ -88,7 +86,7 @@ Snapshot of Pivot-Tables used for analysis
 
 - Analysis
 
-  - Calculation of total employee in the company using card visual for the display
+  - Calculation of total employee in the company using card visual for the dislay
 
   - calculation of total male and female employees with their respective percentage
 
@@ -155,4 +153,12 @@ Snapshot of visuals used for displaying the above anlysis
   - Among the 11,165 with low performance, 11,015 had Low training level, 143 had Minimal training while 7 were Highly trained
 
   - Among the 11,165 with low performance, 6,299 were recruited from other channels, 4,718 from sourcing while 148 were referred
+
+
+#### Recommendations
+- It is highly recommended that the larger portion of the employee should undergo higher training to further develop their skills and get them more familiar with the goals and objectives of the organisation which will significantly improve their performance.
+
+- It's important to recognize that employees often perform better when they feel valued and satisfied with their roles. Consequently, carefully crafting a strong culture that demonstrates respect for employees is a key improving employee performance.
+
+- Collaboration is highly recommended, it will lead to major benefits in individual employee performance and build trust among team members that can lead to better results in the long run.
 
